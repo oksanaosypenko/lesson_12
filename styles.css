@@ -17,7 +17,10 @@ body {
   
 }
 
+.header {
+    margin-top: 100px;
 
+}
 h1 {
         font-size: 90px;
         font-family: 'Raleway', sans-serif;
@@ -25,10 +28,10 @@ h1 {
         font-weight: 700;
         line-height: 0.278;
         text-align: center;
-       margin-top: 100px;
+      
       
 }
-header p {
+.header p {
     margin-left: auto;
     margin-right: auto;
         font-size: 17px;
@@ -100,7 +103,9 @@ textarea:focus {
     height: 250px;
     padding: 15px;
 }
-
+.contacts {
+    margin-top: -5px;
+}
 .contacts__title {
         font-size: 17px;
         font-family: 'Raleway', sans-serif;
